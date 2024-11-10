@@ -20,3 +20,6 @@
 
 #User Specific Files
 *.atsuo
+
+#Mac OS temp files
+.DS_Store
